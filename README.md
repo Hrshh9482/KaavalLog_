@@ -1,4 +1,4 @@
-# Log Analyser & Threat Detector
+# Log Analyser & Threat Detector aka KavalLog
 
 A Python-based security log analysis tool that detects threats and generates a threat report from system logs.
 
